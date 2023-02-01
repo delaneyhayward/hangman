@@ -18,7 +18,7 @@ import javafx.stage.Stage;
 import java.util.Locale;
 
 public class HelloApplication extends Application {
-    private String wordToGuess = "Mississippi";
+    private String wordToGuess = "Washington";
     private int numberOfGuesses = 0;
     private Label guessedWordLabel = new Label();
     private Label numberOfGuessesLabel = new Label();
